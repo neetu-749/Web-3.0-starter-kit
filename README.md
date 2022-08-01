@@ -2,11 +2,17 @@
 Web 3.0 starter kit
 
 ### 💫 Dependencies used:
-- npm install
+```sh
+ npm install
+```
 
--npm install -g npm (to update npm version)
-
--npm install react-router-dom@6 
-
--npm install identicon.js
-
+```ss
+npm install -g npm (to update npm version)
+```
+To implement dynamic routing in a web app. It allows you to display pages and allow users to navigate them.
+```ss
+npm install react-router-dom@6 
+```
+```ss
+npm install identicon.js
+```
